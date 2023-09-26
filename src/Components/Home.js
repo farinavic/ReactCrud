@@ -26,7 +26,8 @@ function Home() {
                                 <tr>
                                     <td>
                                         {item.Name}
-                                    </td><td>
+                                    </td>
+                                    <td>
                                         {item.Age}
                                     </td>
                                 </tr>
